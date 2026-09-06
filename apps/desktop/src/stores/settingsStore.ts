@@ -425,6 +425,22 @@ export const AI_PROVIDER_PARTNER_PRESETS: readonly AiPartnerProviderPreset[] = [
     apiKeyUrl: "https://www.jalapeno-cloud.ai/dbx",
     descriptionKey: "ai.jalapenoDescription",
   },
+  {
+    id: "hualong-ai",
+    label: "HuaLongAI",
+    iconPath: "/icons/ai/hualong-ai.png",
+    group: "partner",
+    provider: "openai-compatible",
+    endpoint: "https://api.hualong.online/v1",
+    model: "gpt-5.6-terra",
+    models: [{ name: "gpt-5.6-terra" }],
+    apiStyle: "completions",
+    authMethod: "bearer",
+    requiresApiKey: true,
+    websiteUrl: "https://api.hualong.online/",
+    apiKeyUrl: "https://api.hualong.online/",
+    descriptionKey: "ai.hualongDescription",
+  },
 ];
 
 function normalizeAiProviderEndpoint(endpoint: string): string {

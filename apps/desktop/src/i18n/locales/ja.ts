@@ -2510,6 +2510,7 @@ export default withEnglishFallback({
     partnerProviders: "優良スポンサー",
     jalapenoSponsored: "$1分の無料クレジット",
     jalapenoDescription: "🎉トップチームも利用するエンタープライズ向けAIが、あなたのもとへ！最先端モデルを50%オフで今すぐ体験。さらにチャージするほどボーナスも増量！",
+    hualongDescription: "🐉 ヘビーなAI開発者のための公式直結リレー！Codex/Claudeシリーズは100%公式ソース、トークン単位の明細検証、法人契約・請求書対応。\n🎉プロモコード DBX&HUALONG で登録すると$1クレジット進呈！",
     visitPartner: "パートナーサイトを開く",
     getApiKey: "APIキーを取得",
     providerStatusActive: "使用中",

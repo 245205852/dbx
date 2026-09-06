@@ -2486,6 +2486,7 @@ export default withEnglishFallback({
     partnerProviders: "Patrocinadores destacados",
     jalapenoSponsored: "1 USD de crédito gratis",
     jalapenoDescription: "🎉 ¡La IA de nivel empresarial que utilizan los equipos líderes ya está disponible para ti! ¡Prueba modelos de vanguardia con un 50 % de descuento y recibe más bonificaciones al recargar!",
+    hualongDescription: "🐉 ¡Relay de modelos con fuente oficial para desarrolladores de IA intensivos! Serie Codex/Claude 100% oficial, facturación por token verificable, contratos y facturas. \n🎉¡Regístrate con el código promocional DBX&HUALONG y obtén 1 $ de crédito!",
     visitPartner: "Visitar el sitio web del socio",
     getApiKey: "Obtener clave API",
     providerStatusActive: "Activo",

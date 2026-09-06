@@ -2382,6 +2382,7 @@ export default withEnglishFallback({
     partnerProviders: "우수 스폰서",
     jalapenoSponsored: "$1 무료 크레딧",
     jalapenoDescription: "🎉 최고의 팀들이 사용하는 엔터프라이즈급 AI를 이제 만나보세요! 최첨단 모델을 50% 할인으로 바로 체험하고, 충전할수록 더 많은 보너스를 받으세요!",
+    hualongDescription: "🐉 헤비 AI 개발자를 위한 공식 직결 릴레이! Codex/Claude 시리즈 100% 공식 소스, 토큰 단위 명세 검증, 기업 계약 및 인보이스 지원. \n🎉프로모 코드 DBX&HUALONG 로 가입하면 $1 크레딧 증정!",
     visitPartner: "파트너 웹사이트 방문",
     getApiKey: "API 키 받기",
     providerStatusActive: "활성",
